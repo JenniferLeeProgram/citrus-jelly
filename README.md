@@ -1,2 +1,2 @@
 # citrus-jelly
-citrus-jelly game
+[🍊 Play Citrus Jelly](https://jenniferleeprogram.github.io/citrus-jelly/citrus-jelly.html)
